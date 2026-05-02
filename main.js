@@ -60,10 +60,6 @@
 		120: { ja: 'ボトルガイザー', en: 'Squeezer', type: 'shooter', bottom: 41 },
 
 		150: { ja: 'スペースシューター', en: 'Splattershot Nova', type: 'shooter', bottom: 44 },
-		160: { ja: 'デンタルワイパーミント', en: 'Mint Decavitator', type: 'wiper', bottom: 4 },
-		170: { ja: 'フルイドV', en: '', type: 'stringer', bottom: 1 },
-		180: { ja: 'ガエンFF', en: 'Douser Dualies FF', type: 'dualies', bottom: 15 },
-		190: { ja: '24式張替傘・甲', en: 'Recycled Brella 24 Mk I', type: 'brella', bottom: 4 },
 
 		1000: { ja: 'ノヴァブラスター', en: 'Luna Blaster', type: 'blaster', bottom: 19 },
 		1010: { ja: 'ホットブラスター', en: 'Blaster', type: 'blaster', bottom: 46 },
@@ -109,16 +105,20 @@
 		7020: { ja: 'デュアルスイーパー', en: 'Dualie Squelchers', type: 'dualies', bottom: 30 },
 		7030: { ja: 'ケルビン525', en: 'Glooga Dualies', type: 'dualies', bottom: 15 },
 		7040: { ja: 'クアッドホッパーブラック', en: 'Dark Tetra Dualies', type: 'dualies', bottom: 7 },
+		7050: { ja: 'ガエンFF', en: 'Douser Dualies FF', type: 'dualies', bottom: 15 },
 
 		8000: { ja: 'パラシェルター', en: 'Splat Brella', type: 'brella', bottom: 32 },
 		8010: { ja: 'キャンピングシェルター', en: 'Tenta Brella', type: 'brella', bottom: 4 },
 		8020: { ja: 'スパイガジェット', en: 'Undercover Brella', type: 'brella', bottom: 27 },
+		8030: { ja: '24式張替傘・甲', en: 'Recycled Brella 24 Mk I', type: 'brella', bottom: 4 },
 
 		9000: { ja: 'トライストリンガー', en: 'Tri-Stringer', type: 'stringer', bottom: 1 },
 		9010: { ja: 'LACT-450', en: 'REEF-LUX 450', type: 'stringer', bottom: 15 },
+		9020: { ja: 'フルイドV', en: '', type: 'stringer', bottom: 1 },
 
 		10000: { ja: 'ジムワイパー', en: 'Splatana Stamper', type: 'wiper', bottom: 4 },
 		10010: { ja: 'ドライブワイパー', en: 'Splatana Wiper', type: 'wiper', bottom: 5 },
+		10020: { ja: 'デンタルワイパーミント', en: 'Mint Decavitator', type: 'wiper', bottom: 4 },
 
 		20000: { ja: 'クマサン印のブラスター', en: 'Grizzco Blaster', type: 'grizzco', bottom: 55 },
 		20010: { ja: 'クマサン印のシェルター', en: 'Grizzco Brella', type: 'grizzco', bottom: 42 },
