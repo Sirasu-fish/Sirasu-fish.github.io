@@ -60,12 +60,10 @@
 		120: { ja: 'ボトルガイザー', en: 'Squeezer', type: 'shooter', bottom: 41 },
 
 		150: { ja: 'スペースシューター', en: 'Splattershot Nova', type: 'shooter', bottom: 44 },
-		160: { ja: '', en: '', type: 'shooter', bottom: 66 },
-		170: { ja: '', en: '', type: 'shooter', bottom: 67 },
-		180: { ja: '', en: '', type: 'shooter', bottom: 68 },
-		190: { ja: '', en: '', type: 'shooter', bottom: 69 },
-		200: { ja: '', en: '', type: 'shooter', bottom: 70 },
-
+		160: { ja: 'デンタルワイパーミント', en: 'Mint Decavitator', type: 'wiper', bottom: 4 },
+		170: { ja: 'フルイドV', en: '', type: 'stringer', bottom: 1 },
+		180: { ja: 'ガエンFF', en: 'Douser Dualies FF', type: 'dualies', bottom: 15 },
+		190: { ja: '24式張替傘・甲', en: 'Recycled Brella 24 Mk I', type: 'brella', bottom: 4 },
 
 		1000: { ja: 'ノヴァブラスター', en: 'Luna Blaster', type: 'blaster', bottom: 19 },
 		1010: { ja: 'ホットブラスター', en: 'Blaster', type: 'blaster', bottom: 46 },
@@ -129,6 +127,7 @@
 		20040: { ja: 'クマサン印のストリンガー', en: 'Grizzco Stringer', type: 'grizzco', bottom: 3 },
 		20050: { ja: 'クマサン印のワイパー', en: 'Grizzco Splatana', type: 'grizzco', bottom: 13 },
 		20060: { ja: "クマサン印のマニューバー", en: "Grizzco Dualies", type: "grizzco", bottom: 15 },
+		20070: { ja: 'クマサン印のローラー', en: 'Grizzco Roller', type: 'grizzco', bottom: 15 }
 };
 
 	/** ブキID配列 */
